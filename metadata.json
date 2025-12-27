@@ -1,0 +1,8 @@
+{
+  "name": "ProRemind: Business & Personal Tasks",
+  "description": "A premium, iOS-inspired task management suite designed for business professionals to manage personal goals, utility bills, and tax compliance in one unified system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
